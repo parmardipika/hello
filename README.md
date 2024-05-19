@@ -1,0 +1,3 @@
+# Namaste
+This is my first git repository...
+Author- Dipika Parmar
